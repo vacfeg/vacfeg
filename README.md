@@ -50,7 +50,7 @@ High-performance engineer focused on **System Hardening**, **Scalable Web Archit
 ---
 
 ### 🔗 Digital Presence
-- **Global Portfolio:** [http://34.176.101.32/](http://34.176.101.32/)
+- **Global Portfolio:** tmrrow
 - **Specialization:** Full Stack Security | Infrastructure Optimization | System Hardening
 
 ---
