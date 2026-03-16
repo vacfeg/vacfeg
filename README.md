@@ -1,49 +1,42 @@
-# 🛡️ Systems Architect & Cybersecurity Specialist
+# 🛡️ Systems Architect & Full Stack Developer
 
-High-performance infrastructure engineer focused on **System Hardening**, **Advanced Backend Automation**, and **Cryptographic Security**. I specialize in architecting resilient environments and developing mission-critical server infrastructures.
+High-performance engineer focused on **System Hardening**, **Scalable Web Architectures**, and **Cryptographic Security**. I bridge the gap between robust backend infrastructure and modern, secure frontend interfaces.
 
 ---
 
 ### ⚡ Core Expertise
+- **Full Stack Development:** Building secure, end-to-end applications using modern JavaScript/TypeScript frameworks.
 - **Advanced Python & Automation:** Engineering high-performance scripts and custom security tooling.
 - **Cybersecurity & Offensive Operations:** Expertise in penetration testing and proactive threat mitigation.
-- **Infrastructure Engineering:** Specialized in high-availability systems and Minecraft server architecture at scale.
+- **Infrastructure Engineering:** Specialized in high-availability systems and mission-critical server architecture.
 - **System Hardening:** Deep-level Linux Kernel optimization and OS-level security reinforcement.
-- **API Design & Cryptography:** Architecting secure integration layers with robust encryption standards.
 
 ---
 
 ### 🛠️ Technical Stack
+
+#### 🌐 Frontend & Backend
 <p align="left">
-  <a href="https://python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  </a>
-  <a href="https://kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
-  </a>
-  <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/shell_script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  </a>
-  <a href="https://docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  </a>
-  <a href="https://postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  </a>
-  <img src="https://img.shields.io/badge/networking-6A0dad?style=for-the-badge&logo=wifi&logoColor=white" alt="Networking" />
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
 </p>
 
+#### 🔐 Systems & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel" />
+  <img src="https://img.shields.io/badge/shell_script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+---
+
 ### 🔬 Technical Research & Focus
-- 🛡️ **Kernel-Level Security:** Implementing advanced hardening policies for mission-critical Linux environments.
+- 🛡️ **Secure Development:** Implementing OWASP standards and secure coding practices in every layer.
 - 🔑 **Applied Cryptography:** Developing secure communication protocols and data integrity frameworks.
 - ⚙️ **Automated Infrastructure:** Orchestrating scalable, secure-by-design server deployments.
 
@@ -58,6 +51,6 @@ High-performance infrastructure engineer focused on **System Hardening**, **Adva
 
 ### 🔗 Digital Presence
 - **Global Portfolio:** [http://34.176.101.32/](http://34.176.101.32/)
-- **Specialization:** Backend Systems | Infrastructure Security | System Optimization
+- **Specialization:** Full Stack Security | Infrastructure Optimization | System Hardening
 
 ---
