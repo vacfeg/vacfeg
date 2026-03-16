@@ -1,14 +1,6 @@
-<table>
-  <tr>
-    <td width="160px">
-      <img src="https://i.pinimg.com/736x/7f/41/4a/7f414ad56e5eb0162408ac0a8feae373.jpg" width="150px" style="border-radius: 50%;" alt="Tu Foto Profesional" />
-    </td>
-    <td>
-      <h1>🛡️ Systems Architect & Full Stack Developer</h1>
-      <p>High-performance engineer focused on <strong>System Hardening</strong>, <strong>Scalable Web Architectures</strong>, and <strong>Cryptographic Security</strong>. I bridge the gap between robust backend infrastructure and modern, secure frontend interfaces.</p>
-    </td>
-  </tr>
-</table>
+# 🛡️ Systems Architect & Full Stack Developer
+
+High-performance engineer focused on **System Hardening**, **Scalable Web Architectures**, and **Cryptographic Security**. I bridge the gap between robust backend infrastructure and modern, secure frontend interfaces.
 
 ---
 
@@ -52,7 +44,7 @@
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vacfeg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
