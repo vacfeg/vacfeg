@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="160px">
-      <img src="https://avatars.githubusercontent.com/u/43285942?v=4" width="150px" style="border-radius: 50%;" alt="Tu Foto Profesional" />
+      <img src="https://i.pinimg.com/736x/7f/41/4a/7f414ad56e5eb0162408ac0a8feae373.jpg" width="150px" style="border-radius: 50%;" alt="Tu Foto Profesional" />
     </td>
     <td>
       <h1>🛡️ Systems Architect & Full Stack Developer</h1>
